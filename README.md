@@ -23,7 +23,6 @@ original works are in a private GitHub.
 | 2h   |  <img src="Images/Shooting.gif" width="30%">   | The shooting works but..*cough*.. the Pool however.. |
 
 # TO DO
-===================================
 ### Fixes -
 - [ ] Assign a pool to the projectile Factory.
 - [ ] Making Enums for every Targeting type.
