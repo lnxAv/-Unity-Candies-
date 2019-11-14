@@ -13,7 +13,6 @@ original works are in a private GitHub.
 <img src="Images/MeshFormula.PNG" width="40%">
 
 ## Design patterns
-===================================
 
 | Time |                    Pictures                    | Desc.                                                |
 | :--- | :--------------------------------------------: | :--------------------------------------------------- |
