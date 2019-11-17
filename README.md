@@ -29,7 +29,7 @@ original works are in a private GitHub.
 - [ ] Fix the offset angle when targeting.
 - [ ] ...
 ### Content -
-- [ ] Custom Editor Dropped-down for all the different Displacement types (Arc, Linear)
+- [x] Custom Editor Dropped-down for all the different Displacement types (Arc, Linear)
 - [ ] Use the same Custom Editor for FireMode
 - [ ] Add Rotation at t[0..1] on an Arc
 - [ ] Implement ProjectileData for ProjectilesFactories and FireMode
