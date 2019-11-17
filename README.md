@@ -25,7 +25,7 @@ original works are in a private GitHub.
 # TO DO
 ### Fixes -
 - [x] Assign a pool to the projectile Factory.
-- [ ] Making Enums for every Targeting type.
+- [x] Making Enums for every Targeting type.
 - [ ] Fix the offset angle when targeting.
 - [ ] ...
 ### Content -
