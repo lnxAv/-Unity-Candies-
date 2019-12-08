@@ -44,6 +44,7 @@ original works are in a private GitHub.
 # TO DO
 ### Fixes -
 - [ ] Re-initialise the rotation once isGrounded gets taken off in editor
+- [ ] Fix the rotation depending on the surface not the object
 - [ ] ...
 ### Content -
 - [ ] Make it snap in different directions
