@@ -48,6 +48,8 @@ original works are in a private GitHub.
 ### Content -
 - [ ] Make it snap in different directions
 - [ ] Make it snap in *Multiple* different directions
+- [ ] Add an option for MeshCollider
+- [ ] Make the BoxCollider easier to Edit
 - [ ] ...
 
 
