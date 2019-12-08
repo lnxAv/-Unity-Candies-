@@ -43,14 +43,11 @@ original works are in a private GitHub.
 
 # TO DO
 ### Fixes -
+- [ ] Re-initialise the rotation once isGrounded gets taken off in editor
 - [ ] ...
 ### Content -
-- [ ] Add Rotation at t[0..1] on an Arc
-- [x] Implement ProjectileData for ProjectilesFactories and FireMode
-- [ ] Make a new Displacement - Boomerang -
-- [ ] Make a new Displacement - Head seek -
-- [ ] Code the OnCollisionProjectile / OnDestroyProjectile Delegate
-- [ ] Make a new Projectile - BeeHive -
+- [ ] Make it snap in different directions
+- [ ] Make it snap in *Multiple* different directions
 - [ ] ...
 
 
